@@ -6,7 +6,10 @@ public class Main {
         stack.getTop();
         stack.getHeight();
         stack.push(20);
+        stack.push(27);
+        stack.push(21);
+        stack.push(29);
+        stack.push(28);
         stack.printStack();
-        stack.pop();
     }
 }
